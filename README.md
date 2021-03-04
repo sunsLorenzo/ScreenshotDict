@@ -1,8 +1,9 @@
 # ScreenshotDict
 ScreenshotDict using google API 
 
-## pre requisites:
+## pre requisites
  deepin-screenshot
  PyQt5
- 
+
+## run
 run ssdict.py 
